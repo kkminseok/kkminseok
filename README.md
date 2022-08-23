@@ -3,6 +3,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaaa727)](https://solved.ac/aaaa727/)
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/kkminseok?theme=unicorn)
+
 
 <!--
 **kkminseok/kkminseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
