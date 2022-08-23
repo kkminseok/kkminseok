@@ -3,6 +3,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaaa727)](https://solved.ac/aaaa727/)
 
+
+<!-- https://github.com/JacobLinCool/LeetCode-Stats-Card-->
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/kkminseok?theme=uvicorn&ext=activity)
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/kkminseok?theme=wtf&ext=activity) 재밌는 테마 zz-->
