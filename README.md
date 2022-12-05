@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![aaaa727's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=aaaa727)
 
