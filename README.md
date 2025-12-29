@@ -1,29 +1,25 @@
+### Hey 👋, I'm Minseok
 
-<!-- ![aaaa727's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=aaaa727) -->
+[![Github](https://img.shields.io/github/followers/kkminseok?label=Follow&style=social)](https://github.com/rickstaa)
 
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aaaa727)](https://solved.ac/aaaa727/) -->
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="./profile/top-langs.svg#gh-light-mode-only" alt="Minseok Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=240  src="./profile/stats.svg#gh-light-mode-only" alt="Minseok Staa's Github stats" />
+</a>
+</div>
 
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="./profile/top-langs.svg#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=240 src="./profile/stats.svg#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
 
-<!-- https://github.com/JacobLinCool/LeetCode-Stats-Card-->
-
-<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/kkminseok?theme=uvicorn&ext=activity) -->
-
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/kkminseok?theme=wtf&ext=activity) 재밌는 테마 zz-->
-
-<!-- https://github.com/anuraghazra/github-readme-stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkminseok&show_icons=true&theme=tokyonight)
-
-<!--
-**kkminseok/kkminseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
